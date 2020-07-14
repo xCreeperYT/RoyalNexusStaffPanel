@@ -1,2 +1,2 @@
 # RoyalNexusStaffPanel
-GitHub Pages
+Custom Webpage for the RoyalNexus server.
