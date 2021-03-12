@@ -1,0 +1,5 @@
+every 10 minutes:
+	send "&7This server is hosted by &6&lRoyal&9&lHost&7, upgrade now to remove the ad." to console
+
+on join:
+	show an action bar from "&7&nServer Hosted by&r &6&lRoyal&9&lHost&7." to player
